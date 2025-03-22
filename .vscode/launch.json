@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Convert",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/convert.py ./pics",
+            "console": "integratedTerminal"
+        }
+    ]
+}
